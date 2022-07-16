@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BookingApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookingApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookingApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookingApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../core/BookingApp.Core/BookingApp.Core.csproj",
+      "msbuildProject": "../../../core/BookingApp.Core/BookingApp.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BookingApp.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\elda_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\elda_\\source\\repos\\booking-app\\BookingApp\\src\\services\\flight\\BookingApp.Flight.Domain\\BookingApp.Flight.Domain.csproj",
+      "projectName": "BookingApp.Flight.Domain",
+      "projectPath": "C:\\Users\\elda_\\source\\repos\\booking-app\\BookingApp\\src\\services\\flight\\BookingApp.Flight.Domain\\BookingApp.Flight.Domain.csproj",
+      "packagesPath": "C:\\Users\\elda_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elda_\\source\\repos\\booking-app\\BookingApp\\src\\services\\flight\\BookingApp.Flight.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\elda_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\elda_\\source\\repos\\booking-app\\BookingApp\\src\\core\\BookingApp.Core\\BookingApp.Core.csproj": {
+              "projectPath": "C:\\Users\\elda_\\source\\repos\\booking-app\\BookingApp\\src\\core\\BookingApp.Core\\BookingApp.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
