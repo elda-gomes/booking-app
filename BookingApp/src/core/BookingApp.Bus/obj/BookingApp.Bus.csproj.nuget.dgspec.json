@@ -118,6 +118,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "IdGen": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
             "Mapster": {
               "target": "Package",
               "version": "[7.3.0, )"
