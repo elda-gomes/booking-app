@@ -7,7 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Configurations\" />
+    <ProjectReference Include="..\..\..\core\BookingApp.Core\BookingApp.Core.csproj" />
+    <ProjectReference Include="..\BookingApp.Booking.Domain\BookingApp.Booking.Domain.csproj" />
   </ItemGroup>
 
 </Project>

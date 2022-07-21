@@ -18,8 +18,13 @@
     <Folder Include="Controllers\" />
     <Folder Include="Application\" />
     <Folder Include="Dtos\" />
-    <Folder Include="Extensions\" />
     <Folder Include="Mappers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\core\BookingApp.Bus\BookingApp.Bus.csproj" />
+    <ProjectReference Include="..\BookingApp.Flight.Domain\BookingApp.Flight.Domain.csproj" />
+    <ProjectReference Include="..\BookingApp.Flight.Infra\BookingApp.Flight.Infra.csproj" />
   </ItemGroup>
 
 </Project>

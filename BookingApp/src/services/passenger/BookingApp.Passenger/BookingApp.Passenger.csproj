@@ -16,11 +16,14 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Data\" />
     <Folder Include="Dtos\" />
     <Folder Include="Application\" />
     <Folder Include="Identity\" />
-    <Folder Include="Passengers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\core\BookingApp.Bus\BookingApp.Bus.csproj" />
+    <ProjectReference Include="..\..\..\core\BookingApp.Core\BookingApp.Core.csproj" />
   </ItemGroup>
 
 </Project>
