@@ -1,0 +1,15 @@
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\bin\Debug\net6.0\BookingApp.Flight.Domain.deps.json
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\bin\Debug\net6.0\BookingApp.Flight.Domain.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\bin\Debug\net6.0\BookingApp.Flight.Domain.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\bin\Debug\net6.0\BookingApp.Core.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\bin\Debug\net6.0\BookingApp.Core.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.csproj.AssemblyReference.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.AssemblyInfoInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.AssemblyInfo.cs
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.csproj.CopyComplete
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\refint\BookingApp.Flight.Domain.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\BookingApp.Flight.Domain.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\flight\BookingApp.Flight.Domain\obj\Debug\net6.0\ref\BookingApp.Flight.Domain.dll

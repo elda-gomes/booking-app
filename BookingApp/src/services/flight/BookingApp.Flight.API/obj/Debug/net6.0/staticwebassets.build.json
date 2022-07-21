@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nlX46VqPkeMfVV0yrZ3oQN/cdP69WV7JDUQ6trbpzTg=",
+  "Source": "BookingApp.Flight.API",
+  "BasePath": "_content/BookingApp.Flight.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

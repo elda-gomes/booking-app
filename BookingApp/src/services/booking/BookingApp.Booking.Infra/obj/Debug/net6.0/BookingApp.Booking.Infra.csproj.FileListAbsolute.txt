@@ -1,0 +1,17 @@
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.csproj.AssemblyReference.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.AssemblyInfoInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.AssemblyInfo.cs
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.csproj.CoreCompileInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\bin\Debug\net6.0\BookingApp.Booking.Infra.deps.json
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\bin\Debug\net6.0\BookingApp.Booking.Infra.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\bin\Debug\net6.0\BookingApp.Booking.Infra.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\bin\Debug\net6.0\BookingApp.Booking.Domain.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\bin\Debug\net6.0\BookingApp.Core.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\bin\Debug\net6.0\BookingApp.Core.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\bin\Debug\net6.0\BookingApp.Booking.Domain.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.csproj.CopyComplete
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\refint\BookingApp.Booking.Infra.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\BookingApp.Booking.Infra.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\services\booking\BookingApp.Booking.Infra\obj\Debug\net6.0\ref\BookingApp.Booking.Infra.dll

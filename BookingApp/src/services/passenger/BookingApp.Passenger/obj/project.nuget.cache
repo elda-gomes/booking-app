@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Mx2M0iAN1atQ5jU68fXQ/3IDmAawGWJvMRasUUBt+AJ7E3afyNJQg4jr5J5iF2WRAdYtYTDk415siqVd32WRSQ==",
+  "dgSpecHash": "4SkDGm+6mhRGPEOhJOyIujeSmMHWUjWLaeXX0N8hpLKXL2YjCKn3PPcXSql2SMfsfBo51o7IqNipObjWC0bFlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\elda_\\source\\repos\\booking-app\\BookingApp\\src\\services\\passenger\\BookingApp.Passenger\\BookingApp.Passenger.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\elda_\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\idgen\\3.0.1\\idgen.3.0.1.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
@@ -18,7 +19,9 @@
     "C:\\Users\\elda_\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
+    "C:\\Users\\elda_\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.7\\microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.7\\microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
+    "C:\\Users\\elda_\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.7\\microsoft.entityframeworkcore.tools.6.0.7.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\elda_\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",

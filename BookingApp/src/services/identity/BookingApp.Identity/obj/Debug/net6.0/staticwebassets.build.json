@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j07GIMeDXJBQAsR6cPlp0XtY4i5twhOiMbJd2B47dqY=",
+  "Source": "BookingApp.Identity",
+  "BasePath": "_content/BookingApp.Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

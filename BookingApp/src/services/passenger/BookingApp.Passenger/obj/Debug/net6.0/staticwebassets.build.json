@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5v1U/GcFKzlfLlJ9vkVa9IRQatNyvbxm05+xtaXxOag=",
+  "Source": "BookingApp.Passenger",
+  "BasePath": "_content/BookingApp.Passenger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

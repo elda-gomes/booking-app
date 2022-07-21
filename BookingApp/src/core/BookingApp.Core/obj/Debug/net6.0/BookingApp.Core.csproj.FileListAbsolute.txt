@@ -1,0 +1,12 @@
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\bin\Debug\net6.0\BookingApp.Core.deps.json
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\bin\Debug\net6.0\BookingApp.Core.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\bin\Debug\net6.0\BookingApp.Core.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\BookingApp.Core.csproj.AssemblyReference.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\BookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\BookingApp.Core.AssemblyInfoInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\BookingApp.Core.AssemblyInfo.cs
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\BookingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\BookingApp.Core.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\refint\BookingApp.Core.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\BookingApp.Core.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Core\obj\Debug\net6.0\ref\BookingApp.Core.dll

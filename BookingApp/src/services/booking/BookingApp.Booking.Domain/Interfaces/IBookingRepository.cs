@@ -8,6 +8,5 @@ namespace BookingApp.Booking.Domain.Interfaces
         Task<Models.Booking> GetById(Guid id);
         void Add(Models.Booking booking);
         void Update(Models.Booking booking);
-        DbConnection GetConnection();
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0XdjYvr+vey6XVe+lrPuqII5vTxV014a6zytCqjlgIs=",
+  "Source": "BookingApp.Email",
+  "BasePath": "_content/BookingApp.Email",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

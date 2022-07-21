@@ -1,0 +1,15 @@
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\bin\Debug\net6.0\BookingApp.Bus.deps.json
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\bin\Debug\net6.0\BookingApp.Bus.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\bin\Debug\net6.0\BookingApp.Bus.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\bin\Debug\net6.0\BookingApp.Core.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\bin\Debug\net6.0\BookingApp.Core.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.csproj.AssemblyReference.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.AssemblyInfoInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.AssemblyInfo.cs
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.csproj.CoreCompileInputs.cache
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.csproj.CopyComplete
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\refint\BookingApp.Bus.dll
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\BookingApp.Bus.pdb
+C:\Users\elda_\source\repos\booking-app\BookingApp\src\core\BookingApp.Bus\obj\Debug\net6.0\ref\BookingApp.Bus.dll
