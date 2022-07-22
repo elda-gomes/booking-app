@@ -1,6 +1,6 @@
 # :airplane:Aplicativo de reserva de assentos em avião
 
-É um aplicativo que tem por objetivo reservar um assento em um avião.
+É um aplicativo que tem por objetivo reservar um assento em um avião. A aplicação utiliza microsservicos e mensageria para viabilizar a reserva de assentos em um avião de forma segura.
 
 ### Status do Projeto
 
