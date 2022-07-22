@@ -6,11 +6,6 @@ using BookingApp.Flight.Domain.Seats.Enums;
 using BookingApp.Flight.Domain.Seats.Models;
 using BookingApp.Flight.Infra.Context;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BookingApp.Flight.Infra.Seed
 {
@@ -26,8 +21,8 @@ namespace BookingApp.Flight.Infra.Seed
         {
             await SeedAirportAsync();
             await SeedAircraftAsync();
-            await SeedSeatAsync();
             await SeedFlightAsync();
+            await SeedSeatAsync();
         }
 
         private async Task SeedAirportAsync()
